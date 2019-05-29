@@ -3,7 +3,7 @@
 A quick dirty rework of [proxy-registry](https://github.com/npm/proxy-registry "npm/proxy-registry") to fetch packages from multiple registries.
 
 ``` console
-$ npx github:xymopen/proxy-multi-registries
+$ npx github:flinn/proxy-multi-registries
 Using registries: https://registry.npmjs.com/
 Listening on: http://localhost:22000
 To use: npm config set registry http://localhost:22000
